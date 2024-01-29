@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ramesh-ariu
-- 👀 I’m interested in python automation and flutter application dev
+- 👀 Flutter Devloper
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python and flutter application
+- 💞️ I’m looking to collaborate on flutter application
 - 📫 How to reach me 07rameshbe@gmail.com 
 
 <!---
